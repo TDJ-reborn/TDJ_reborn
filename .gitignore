@@ -12,7 +12,8 @@ Music/
 
 SAVES/
 Shop/
-Sprite/
+Sprite/*
+!/Sprite/man163/
 TdjDataEditor/
 tdjhelper/
 存檔/
